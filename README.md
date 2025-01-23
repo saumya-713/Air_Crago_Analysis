@@ -16,7 +16,7 @@ As a DBA expert, your focus will be to:
 
 This will improve the company’s operability and make it a more favorable choice for air travel.
 
-> **Note:**   
+> [!Note]  
 > You can download the dataset from [this link](https://github.com/saumya-713/Air_Crago_Analysis/raw/refs/heads/main/air_cargo_datasets.zip).
 
 

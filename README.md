@@ -101,7 +101,4 @@ This table contains details about the flight routes.
 
 ---
 
-> [!Note]  
-> You can download the dataset from [this link](https://github.com/saumya-713/Air_Crago_Analysis/raw/refs/heads/main/air_cargo_datasets.zip).
 
----

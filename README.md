@@ -101,4 +101,8 @@ This table contains details about the flight routes.
 
 ---
 
+> 💡  
+> [The link to code and screenshots of the work.](https://github.com/saumya-713/Air_Crago_Analysis_SQL2/blob/main/air_cargo_analysis%20SQL%20Project%202%20SAUMYA%20GUREJA_pdf_.pdf)
+
+---
 
